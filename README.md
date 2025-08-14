@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/techcodedesign.png" /></p>
+<p align="center"><img width="100%" src="./assets/techcodedesign.png" /></p>
 
 <br />
 
